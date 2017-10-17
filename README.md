@@ -15,8 +15,8 @@ You can include brotli-codec in your project with the following maven repository
   <dependency>
     <groupId>com.github.rdblue</groupId>
     <artifactId>brotli-codec</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </dependency>
 ```
 
-For other build tools, see the [Jitpack.io page](https://jitpack.io/#rdblue/brotli-codec/0.1.0).
+For other build tools, see the [Jitpack.io page](https://jitpack.io/#rdblue/brotli-codec/0.1.1).
